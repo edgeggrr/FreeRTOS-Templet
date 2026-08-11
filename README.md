@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------------------------------------------------
-                                                     **   FREERTOS TEMPLET  **
+                                              **   FREERTOS TEMPLET  **
 ------------------------------------------------------------------------------------------------------------------------------------
 
 This project is built using CMake and is tailored for the Raspberry Pi Pico 2 W (RP2350 architecture) using the official Pico C/C++ SDK and FreeRTOS.
